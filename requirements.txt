@@ -1,7 +1,6 @@
-# ------ Library MediaPipe dan OpenCV untuk Video Processing ---------
 opencv-python==4.5.3.20210927
 mediapipe==0.8.7
-
-# ------ Library untuk Audio Processing ---------
 numpy==1.21.2
 scipy==1.7.1
+PyQt5==5.15.4
+pyqtgraph==0.11.1
